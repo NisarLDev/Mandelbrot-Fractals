@@ -10,6 +10,7 @@ Mathematical explanation of the question:
 
 4 - https://www.britannica.com/science/Mandelbrot-set
 
+5 - https://complex-analysis.com/contenido/conjunto_de_mandelbrot.html
 
 For the C lenguage:
 
