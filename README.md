@@ -13,6 +13,7 @@ Mathematical explanation of the question:
 For the C lenguage:
 
 1 - https://jonisalonen.com/2014/can-java-be-faster-than-c/
+
 2 - https://jonisalonen.com/2013/lets-draw-the-mandelbrot-set/
 
 For the C++ lenguage:
