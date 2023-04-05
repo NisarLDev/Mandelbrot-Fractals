@@ -12,6 +12,8 @@ Mathematical explanation of the question:
 
 5 - https://complex-analysis.com/contenido/conjunto_de_mandelbrot.html
 
+6 - https://www.gaussianos.com/¿que-es-el-conjunto-de-mandelbrot-historia-y-construccion/
+
 For the C lenguage:
 
 1 - https://jonisalonen.com/2014/can-java-be-faster-than-c/
