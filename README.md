@@ -24,6 +24,7 @@ For the C++ lenguage:
 For the Java lenguage:
 
 1 - https://jonisalonen.com/2014/can-java-be-faster-than-c/
+
 2 - https://jonisalonen.com/2013/lets-draw-the-mandelbrot-set/
 
 For the JavaScript lenguage:
