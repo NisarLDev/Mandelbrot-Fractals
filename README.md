@@ -8,6 +8,7 @@ Mathematical explanation of the question:
 
 3 - https://mathworld.wolfram.com/MandelbrotSet.html
 
+4 - https://www.britannica.com/science/Mandelbrot-set
 
 
 For the C lenguage:
