@@ -34,7 +34,9 @@ For the JavaScript lenguage:
 For the Python lenguage:
 
 1 - https://levelup.gitconnected.com/mandelbrot-set-with-python-983e9fc47f56
+
 2 - https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set
+
 3 - https://realpython.com/mandelbrot-set-python/#plotting-the-mandelbrot-set-using-pythons-matplotlib
 
 For the R language:
