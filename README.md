@@ -14,11 +14,19 @@ Mathematical explanation of the question:
 
 6 - https://www.gaussianos.com/¿que-es-el-conjunto-de-mandelbrot-historia-y-construccion/
 
+7 - https://marzomates.webs.ull.es/fractales-la-geometria-del-caos/
+
+8 - https://www.blogartesvisuales.net/general/benoit-mandelbrot-el-patron-dentro-del-patron-fractales/
+
+9 - https://images.math.cnrs.fr/El-conjunto-de-Mandelbrot.html?lang=fr
+
 For the C lenguage:
 
 1 - https://jonisalonen.com/2014/can-java-be-faster-than-c/
 
 2 - https://jonisalonen.com/2013/lets-draw-the-mandelbrot-set/
+
+3 - https://medium.com/futurelabmx/creando-un-fractal-de-mandelbrot-en-c-91e7ca46f7b4
 
 For the C++ lenguage:
 
