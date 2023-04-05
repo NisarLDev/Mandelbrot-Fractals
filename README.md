@@ -3,7 +3,9 @@ Bibliography:
 Mathematical explanation of the question:
 
 1 - https://plus.maths.org/content/what-mandelbrot-set
+
 2 - https://mathigon.org/course/fractals/mandelbrot
+
 3 - https://mathworld.wolfram.com/MandelbrotSet.html
 
 
